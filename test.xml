@@ -1,0 +1,365 @@
+   <Object type="0xc44" id="Rusty Katana">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x21c</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>0</Tier>
+      <Description>A rusty old katana.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Katana Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>25</MinDamage>
+         <MaxDamage>70</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>5</feedPower>
+   </Object>
+   <Object type="0xc45" id="Kendo Stick">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x21d</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>1</Tier>
+      <Description>Suitable for practice.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Kendo Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>30</MinDamage>
+         <MaxDamage>75</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>7</feedPower>
+   </Object>
+   <Object type="0xc46" id="Plain Katana">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x21e</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>2</Tier>
+      <Description>A basic katana.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Katana Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>35</MinDamage>
+         <MaxDamage>80</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>10</feedPower>
+   </Object>
+   <Object type="0xc47" id="Thunder Katana">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x21f</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>3</Tier>
+      <Description>A striking fine-edged weapon.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Katana Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>45</MinDamage>
+         <MaxDamage>85</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>15</feedPower>
+   </Object>
+   <Object type="0xc48" id="Line Kutter Katana">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x220</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>4</Tier>
+      <Description>A katana capable of cutting a razor-thin line.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Line Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>55</MinDamage>
+         <MaxDamage>90</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>22</feedPower>
+   </Object>
+   <Object type="0xc49" id="Night Edge">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x221</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>5</Tier>
+      <Description>An ancient katana with a blade of jet black steel.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Night Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>55</MinDamage>
+         <MaxDamage>105</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>32</feedPower>
+   </Object>
+   <Object type="0xc4a" id="Sky Edge">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x222</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>6</Tier>
+      <Description>A beautiful katana, forged and cooled by the mists atop a great mountain.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Sky Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>75</MinDamage>
+         <MaxDamage>110</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>47</feedPower>
+   </Object>
+   <Object type="0xc4b" id="Buster Katana">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x223</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>7</Tier>
+      <Description>A mighty weapon wielded by a hero from long ago.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Buster Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>90</MinDamage>
+         <MaxDamage>120</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>70</feedPower>
+   </Object>
+   <Object type="0xc4c" id="Demon Edge">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x224</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>8</Tier>
+      <Description>A cruel blade forged in hell flame and blood.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Demon Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>90</MinDamage>
+         <MaxDamage>150</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>2</BagType>
+      <FameBonus>1</FameBonus>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>100</feedPower>
+   </Object>
+   <Object type="0xc4d" id="Jewel Eye Katana">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x225</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>9</Tier>
+      <Description>A mighty katana with a crystal eye embedded in the hilt.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Jewel Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>100</MinDamage>
+         <MaxDamage>160</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>2</BagType>
+      <FameBonus>1</FameBonus>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>145</feedPower>
+   </Object>
+   <Object type="0xc4e" id="Ichimonji">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x226</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>10</Tier>
+      <Description>One of the legendary great blades of the master Ichimonji.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Ichimonji Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>110</MinDamage>
+         <MaxDamage>165</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>2</FameBonus>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>212</feedPower>
+   </Object>
+   <Object type="0xc4f" id="Muramasa">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x227</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>11</Tier>
+      <Description>An evil blade that hungers for blood.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Muramasa Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>120</MinDamage>
+         <MaxDamage>175</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>3</FameBonus>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>310</feedPower>
+   </Object>
+   <Object type="0xc50" id="Masamune">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x228</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Tier>12</Tier>
+      <Description>A magnificent legendary blade which only cuts those who deserve death.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Masamune Slash</ObjectId>
+         <Speed>130</Speed>
+         <LifetimeMS>365</LifetimeMS>
+         <MinDamage>135</MinDamage>
+         <MaxDamage>180</MaxDamage>
+         <MultiHit/>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>4</FameBonus>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>450</feedPower>
+   </Object>
+   <Object type="0x914" id="Useless Katana">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x3db</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Description>A crappy katana that can barely cut anything.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Masamune Slash</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>10</MinDamage>
+         <MaxDamage>30</MaxDamage>
+         <LifetimeMS>350</LifetimeMS>
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>300</feedPower>
+      <Soulbound/>
+   </Object>
+   <Object type="0x915" id="Ray Katana">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x22a</Index>
+      </Texture>
+      <SlotType>24</SlotType>
+      <Description>A great katana charged with the power of the sun itself.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/long_sword</Sound>
+      <Projectile>
+         <ObjectId>Beam Slash</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>111</MinDamage>
+         <MaxDamage>111</MaxDamage>
+         <LifetimeMS>340</LifetimeMS>
+         <MultiHit/>
+      </Projectile>
+      <BagType>6</BagType>
+      <FameBonus>3</FameBonus>
+      <OldSound>bladeSwing</OldSound>
+      <feedPower>500</feedPower>
+      <Soulbound/>
+   </Object>
